@@ -1,0 +1,17 @@
+*.swo
+*.swp
+*.deb
+*.o
+*.dll
+src/*.o
+src/*.swp
+res/*.deb
+*.exe
+./*.dll
+gimcfg.bin
+gimscore.bin
+res/*.res
+gimmick.exe
+gimmick
+gimmick-debug
+gimmick-debug.exe
